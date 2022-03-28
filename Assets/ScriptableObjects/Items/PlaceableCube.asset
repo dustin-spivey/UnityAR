@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2df5c3e5fa4c87c4987fd593275b460a, type: 3}
+  m_Name: PlaceableCube
+  m_EditorClassIdentifier: 
+  itemName: Placeable Cube
+  placeableObjectPrefab: {fileID: 4464481878602203831, guid: fc6f548a6d3e71a4d813de39398710ee,
+    type: 3}
+  uiButton: {fileID: 5092642249979483411, guid: e7838cec1117c6f46872bc2c131bef43,
+    type: 3}

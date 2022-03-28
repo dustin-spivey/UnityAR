@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2df5c3e5fa4c87c4987fd593275b460a, type: 3}
+  m_Name: PlaceableSphere
+  m_EditorClassIdentifier: 
+  itemName: Placeable Sphere
+  placeableObjectPrefab: {fileID: 1182186567268283638, guid: 314aa41f86750df47bd82bce715cf07f,
+    type: 3}
